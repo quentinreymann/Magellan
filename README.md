@@ -1,10 +1,4 @@
 
-
-
-
-
-# Project Title
-
 # Magellan
 
 The main purpose is to train my skill in front, especially in using Primefaces and JSF. It is a simulation of a travel agency website (a french one). I am only a beginner in th IT field and this is my first try ever.
